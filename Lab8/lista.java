@@ -35,6 +35,5 @@ public class lista {
         System.out.println("Listele ordonate asc: " +num);
         Collections.sort(num, Collections.reverseOrder());
         System.out.println("Listele ordonate desc: " +num);
-
     }
 }
